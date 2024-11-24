@@ -1,14 +1,14 @@
 {
   
-  movies: [
+  "movies": [
     {
-    title: "1", id: "dyxt01", down_url: ""
+    "title": "1", "id": "dyxt01", "down_url": ""
     },
     {
-    title: "23", id: "dyxt02", down_url: ""
+    "title": "23", "id": "dyxt02", "down_url": ""
     },
     {
-    title: "3", id: "dyxt03", down_url: ""
+    "title": "3", "id": "dyxt03", "down_url": ""
     }
 ]
   
